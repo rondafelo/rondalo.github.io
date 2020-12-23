@@ -5,7 +5,7 @@ This page contains a list of projects I have conducted that fall under 2 categor
 + **Data Projects** - for fun; these are freely available on my GitHub
 
 ## Research Projects
-##### Note. These projects are linked as RPub pages due to restricted access to the raw data.
+*Note.* These projects are linked as RPub pages due to restricted access to the raw data.
 
 1. Having siblings promotes better social cognitive "mind-reading" abilities (Lo & Mar, under review).
 2. The effects of racism on psychosocial health of East Asian Americans and Canadians during COVID-19 (Lo et al., under review).

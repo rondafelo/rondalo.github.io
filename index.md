@@ -1,7 +1,7 @@
 # Research and Data Projects
 
 This page contains a list of projects I have conducted that fall under 2 categories:
-+ **Research Projects** - based off data from my (select) published work
++ **Research Projects** - based off data collected during my PhD (some data from select published work)
 + **Data Projects** - based off freely available datasets
 
 ## Research Projects

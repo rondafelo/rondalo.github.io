@@ -1,1 +1,0 @@
-# rondalo.github.io qwoooooooooo

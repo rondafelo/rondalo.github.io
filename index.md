@@ -1,8 +1,8 @@
 # Research and Data Projects
 
 This page contains a list of projects I have conducted that fall under 2 categories:
-+ **Research Projects** - projects that are based off data from my (select) published work
-+ **Data Projects** - for fun; these are freely available on my GitHub
++ **Research Projects** - exploratory projects that are based off data from my (select) published work
++ **Data Projects** - based off freely available datasets
 
 ## Research Projects
 *Note.* These projects are linked as RPub pages due to restricted access to the raw data.
